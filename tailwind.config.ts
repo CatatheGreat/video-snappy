@@ -24,6 +24,17 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				
+				// YouTube Brand Colors
+				youtube: {
+					red: 'hsl(var(--youtube-red))',
+					'red-dark': 'hsl(var(--youtube-red-dark))',
+					black: 'hsl(var(--youtube-black))',
+					'gray-dark': 'hsl(var(--youtube-gray-dark))',
+					'gray-light': 'hsl(var(--youtube-gray-light))',
+					white: 'hsl(var(--youtube-white))',
+				},
+				
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
